@@ -27,7 +27,7 @@ function create_project(name)
     }
     
     filter "system:windows"
-    cppdialect "C++17"
+    cppdialect "C++20"
     staticruntime "On"
     systemversion "latest"
 

@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\dev\cpp-design-patterns\bin\Debug-windows\command_pattern2.exe</FullPath>
+      <FullPath>D:\dev\visual studio\cpp-design-patterns\bin\Debug-windows\command_pattern2.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
